@@ -1,0 +1,16 @@
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\bin\Debug\net8.0\LoanAPI.Application.deps.json
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\bin\Debug\net8.0\LoanAPI.Application.dll
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\bin\Debug\net8.0\LoanAPI.Application.pdb
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\bin\Debug\net8.0\FLoanAPI.Domain.dll
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\bin\Debug\net8.0\FLoanAPI.Domain.pdb
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.csproj.AssemblyReference.cache
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.AssemblyInfoInputs.cache
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.AssemblyInfo.cs
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.sourcelink.json
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI..FA8F1565.Up2Date
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.dll
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\refint\LoanAPI.Application.dll
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\LoanAPI.Application.pdb
+C:\Users\sabag\C#Projects\FinalW02\LoanAPI.Application\obj\Debug\net8.0\ref\LoanAPI.Application.dll

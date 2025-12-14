@@ -1,0 +1,12 @@
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\bin\Debug\net8.0\FLoanAPI.Domain.deps.json
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\bin\Debug\net8.0\FLoanAPI.Domain.dll
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\bin\Debug\net8.0\FLoanAPI.Domain.pdb
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.AssemblyInfo.cs
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.sourcelink.json
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.dll
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\refint\FLoanAPI.Domain.dll
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\FLoanAPI.Domain.pdb
+C:\Users\sabag\C#Projects\FinalW02\FLoanAPI.Domain\obj\Debug\net8.0\ref\FLoanAPI.Domain.dll
